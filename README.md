@@ -3,7 +3,7 @@
 <p align="center">
 
 # Hey, I'm Emirhan Usta! 
-I’m a sofware developer focused on java. Currently learning React and 
+I’m a software developer focused on java. Currently learning React and 
 also developing a project by using java and postgreSQL. On the other
 hand, I also have interest in developing mobile applications with flutter.
 
