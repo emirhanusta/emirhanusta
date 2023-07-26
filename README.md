@@ -14,8 +14,6 @@ also developing a project by using java and spring boot
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/emirhanuusta/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/emirhanusta">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="mailto:emirhan1usta@gmail.com">
 				<img src="https://img.icons8.com/doodle/40/000000/gmail-new.png"></a>
       </div>
