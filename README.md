@@ -3,9 +3,7 @@
 <p align="center">
 
 # Hey, I'm Emirhan Usta! 
-I’m a software developer focused on java. Currently learning React and 
-also developing a project by using java and spring boot
-
+I am a software developer, and my focus is on backend development. Currently, I am developing projects using Spring Boot.
 
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=emirhanusta)
