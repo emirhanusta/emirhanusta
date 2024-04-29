@@ -3,10 +3,9 @@
 <p align="center">
 
 # Hey, I'm Emirhan Usta! 
-I am a software developer, and my focus is on backend development. Currently, I am developing projects using Spring Boot.
+I am currently a student focusing on backend development using Java Spring Boot and Golang.
+development skills using React.
 
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=emirhanusta)
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
