@@ -3,8 +3,7 @@
 <p align="center">
 
 # Hey, I'm Emirhan Usta! 
-I am currently a student focusing on backend development using Java Spring Boot and Golang.
-development skills using React.
+I am currently a student focusing on backend development using Java Spring Boot and Golang. I am also trying to improve my frontend development skills using React.
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
