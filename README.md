@@ -19,12 +19,15 @@ I am currently a student focusing on backend development using Java Spring Boot 
 
 ## Github Stats
 
-<div align="center"> 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=emirhanusta&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirhanusta&layout=compact&theme=buefy&hide_border=true" />
-</div>
-	
+<div align="center">
+  <a href="#">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emirhanusta&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirhanusta&layout=compact&theme=buefy&hide_border=true"/>
+  </a>
+</div> 
+
 <h3 align="left">Languages and Tools:</h3>
+
 
 <p align="center">
     <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
@@ -40,5 +43,7 @@ I am currently a student focusing on backend development using Java Spring Boot 
     <a href="https://www.elastic.co/elasticsearch/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/></a>
     <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+    <a href="https://kafka.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/></a>
 </p>
+
 
