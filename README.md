@@ -19,11 +19,10 @@ I am currently a student focusing on backend development using Java Spring Boot 
 
 ## Github Stats
 
+
 <div align="center">
-  <a href="#">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emirhanusta&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirhanusta&layout=compact&theme=buefy&hide_border=true"/>
-  </a>
+   <img height="180em" src="https://streak-stats.demolab.com?user=emirhanusta&locale=en&mode=daily&theme=chartreuse-white&hide_border=false&border_radius=5&order=3"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirhanusta&layout=compact&theme=buefy&hide_border=true"/>
 </div> 
 
 <h3 align="left">Languages and Tools:</h3>
