@@ -22,7 +22,6 @@ My main stack includes Java (Spring Boot), Go, and PostgreSQL, but I also enjoy 
 
 
 <div align="center">
-   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=emirhanusta&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirhanusta&theme=dark&layout=compact&langs_count=8"/>
 </div> 
 
